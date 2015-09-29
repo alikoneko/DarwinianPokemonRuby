@@ -34,7 +34,7 @@ gem 'sdoc', '~> 0.4.0', group: :doc
 
 group :development, :test do
   gem 'capybara', '~> 2.2.1'
-  gem 'rspec-rails', '~> 2.14.2'
+  gem 'rspec-rails', '~> 3.3'
   gem 'selenium-webdriver', '~> 2.41.0'
   gem 'factory_girl_rails', '~> 4.4.1'
   gem 'database_cleaner', '~> 1.2.0'
